@@ -151,10 +151,10 @@ The main objectives of this project are:
 ## *7. Segment customers based on spending behavior: - VIP: Customers with at least 12 months of history and spending more than $5000. - Regular: Customers with at least 12 months of history but spending $5000 or less. - New: Customers with a lifespan less than 12 months. And find the total number of customers by each group.*
 
 
-# ***CUSTOMER REPORT***
+# ***Customer Report***
 
 
-# ***PRODUCT REPORT***
+# ***Product Report***
 
 
 
