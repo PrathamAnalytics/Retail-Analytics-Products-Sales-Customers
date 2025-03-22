@@ -30,9 +30,10 @@ The main objectives of this project are:
 - **Description** : The dataset includes transactional sales data, customer details, and product information.
 
 **Download Dataset Files** :
-- [Customers Data]([https://github.com/your-username/retail-sql-analysis/blob/main/dim_customers.csv](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/refs/heads/main/dim_customers.csv))
-- [Products Data]([https://github.com/your-username/retail-sql-analysis/blob/main/dim_products.csv](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/refs/heads/main/dim_products.csv))
-- [Sales Data]([https://github.com/your-username/retail-sql-analysis/blob/main/fact_sales.csv](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/refs/heads/main/fact_sales.csv))
+- [Customers Data](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/dim_customers.csv)
+- [Products Data](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/dim_products.csv)
+- [Sales Data](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/fact_sales.csv)
+
 
 
 # Key Findings
