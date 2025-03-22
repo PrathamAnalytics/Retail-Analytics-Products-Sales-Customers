@@ -4,13 +4,13 @@
 This project focuses on analyzing retail sales, products, and customer behavior using SQL. By leveraging data analysis techniques, we extract key business insights that help in understanding sales performance, customer trends, and product demand.
 The project is divided into four sections:
 
-- *Exploratory Data Analysis (EDA)* – Initial data exploration and trends.
+- *Exploratory Data Analysis (EDA)* 
 
-- *Advanced Analysis* – In-depth SQL queries for deeper insights.
+- *Advanced Analysis* 
 
-- *Customer Report* – Customer behavior, segmentation, and purchasing trends.
+- *Customer Report* 
 
-- *Product Report* – Product sales performance, top-selling items, and inventory insights.
+- *Product Report* 
 
 # *Objective*
 
