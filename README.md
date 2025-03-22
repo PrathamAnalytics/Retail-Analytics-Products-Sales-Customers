@@ -1,4 +1,4 @@
-# ***Retail Analytics : Products, Sales & Customers***
+# ***Retail Analysis : Products, Sales & Customers***
 
 # *Overview*
 This project focuses on analyzing retail sales, products, and customer behavior using SQL. By leveraging data analysis techniques, we extract key business insights that help in understanding sales performance, customer trends, and product demand.
