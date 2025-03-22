@@ -5,11 +5,8 @@ This project focuses on analyzing retail sales, products, and customer behavior 
 The project is divided into four sections:
 
 - *Exploratory Data Analysis (EDA)* 
-
 - *Advanced Analysis* 
-
 - *Customer Report* 
-
 - *Product Report* 
 
 # *Objective*
