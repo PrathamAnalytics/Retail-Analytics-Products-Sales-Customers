@@ -66,16 +66,16 @@ The main objectives of this project are:
 ![Retail](https://i.postimg.cc/0NvXrkg6/6.png)
 
 ## *7. Find the total number of items sold.*
-![Retail]()
+![Retail](https://i.postimg.cc/WpQ1KCLW/7.png)
 
 ## *8. Find the average selling price of products.*
-![Retail]()
+![Retail](https://i.postimg.cc/KvB8yfmZ/8.png)
 
 ## *9. Find the total number of orders placed.*
-![Retail]()
+![Retail](https://i.postimg.cc/d1gwbkXk/9.png)
 
 ## *10. Find the number of unique orders placed.*
-![Retail]()
+![Retail](https://i.postimg.cc/ZK84QqLn/10.png)
 
 ## *11. Find the total number of products.*
 ![Retail]()
