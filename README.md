@@ -48,7 +48,7 @@ The main objectives of this project are:
 # ***Exploratory Data Analysis (EDA)***
 
 ## *1. Explore All Countries our customers come from.*
-![Customer Countries](https://drive.google.com/uc?export=view&id=1IlWrm4QzrkksHaToZhae1qTomEsZGuuz)
+![Customer Countries](https://i.postimg.cc/Tw1Nxyxx/1.png)
 
 ## *2. Explore All Categories "The Major Divisons".*
 ![Customer Countries](https://raw.githubusercontent.com/YourUsername/YourRepoName/main/images/customer_countries.png)
