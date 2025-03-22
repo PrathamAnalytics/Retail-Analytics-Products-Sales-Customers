@@ -24,9 +24,9 @@ The main objectives of this project are:
  # ***Dataset***
 
 - **Description** : The dataset includes transactional sales data, customer details, and product information.
-- [Customers Data](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/dim_customers.csv)
-- [Products Data](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/dim_products.csv)
-- [Sales Data](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/fact_sales.csv)
+- [Customers](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/dim_customers.csv)
+- [Products](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/dim_products.csv)
+- [Sales](https://raw.githubusercontent.com/PrathamAnalytics/Retail-Data-Analytics-Products-Sales-Customers/main/fact_sales.csv)
 
 # ***Exploratory Data Analysis (EDA)***
 
